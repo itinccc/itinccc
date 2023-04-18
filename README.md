@@ -3,7 +3,7 @@
 ## About me;
 - Nama               : Christin Valentine Kaburuang
 - Alamat             : Kampung Belengan
-- Tempat,tggl lahir  : Beengan 14 Februari 2003
+- Tempat,tggl lahir  : Belengan 14 Februari 2003
 - Jenis kelamin      : Perempuan
 - Status             : Mahasiswa
 - Email              : Kaburuangchristin@gmail.com
