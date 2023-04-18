@@ -1,17 +1,17 @@
 ### Hi there I'm Ityn👋
 +
 ## About me;
--Nama               : Christin Valentine Kaburuang
--Alamat             : Kampung Belengan
--Tempat,tggl lahir  : Beengan 14 Februari 2003
--Jenis kelamin      : Perempuan
--Status             : Mahasiswa
--Email              : Kaburuangchristin@gmail.com
--Whatsapp           : 082394662106
--Facebook           : Christin Kaburuang
--Instagram          : @Itinccc
--Twiiter            : Cendol Oreo
--Tik Tok            : Itinccc
+- Nama               : Christin Valentine Kaburuang
+- Alamat             : Kampung Belengan
+- Tempat,tggl lahir  : Beengan 14 Februari 2003
+- Jenis kelamin      : Perempuan
+- Status             : Mahasiswa
+- Email              : Kaburuangchristin@gmail.com
+- Whatsapp           : 082394662106
+- Facebook           : Christin Kaburuang
+- Instagram          : @Itinccc
+- Twiiter            : Cendol Oreo
+- Tik Tok            : Itinccc
 
 ## Education:
 
