@@ -1,4 +1,4 @@
-### Hi there I'm Ityn👋
+### Hi there I'm Itin👋
 +
 ## About me;
 - Nama               : Christin Valentine Kaburuang
